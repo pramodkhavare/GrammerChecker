@@ -1,0 +1,2 @@
+class ABC:
+    name = "pramod"

@@ -1,0 +1,7 @@
+pandas
+seaborn
+scikit-learn
+setuptools 
+flask
+textblob
+GIngerIt
